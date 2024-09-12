@@ -1,0 +1,14 @@
+1. Pros:
+
+Break down of projects into several steps leads to a more iterative approach to solving a bigger problem, creating more organization in the process
+
+Supports constant collaboration with customers
+
+
+
+Cons:
+
+When teams work on each component in different cycles, the complete output often becomes very fragmented rather than one cohesive unit
+
+The “see-as-you-go” nature of Agile makes it difficult to split into meaningful steps per cycle
+

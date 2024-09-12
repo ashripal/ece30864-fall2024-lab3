@@ -32,4 +32,10 @@ Discuss completed work and move incomplete work to backlog
 
 This meeting occurs at the end of the sprint, which may be closed
 
+4. Epic: captures the overall work that is then broken down in several smaller tasks
 
+Story: a software system requirement that is expressed in a few short sentences
+
+Bug: smallest unit of work, mentions blocks along the way
+
+Task issue: a unit of work that can be tracked through a workflow

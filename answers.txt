@@ -12,3 +12,4 @@ When teams work on each component in different cycles, the complete output often
 
 The “see-as-you-go” nature of Agile makes it difficult to split into meaningful steps per cycle
 
+2. The scrum master is in charge of all tasks related to Jira tooling, facilitating sprints and meetings, and standups. On the other hand, the product owner sets direction for the team, handles release and stakeholder management.

@@ -13,3 +13,23 @@ When teams work on each component in different cycles, the complete output often
 The “see-as-you-go” nature of Agile makes it difficult to split into meaningful steps per cycle
 
 2. The scrum master is in charge of all tasks related to Jira tooling, facilitating sprints and meetings, and standups. On the other hand, the product owner sets direction for the team, handles release and stakeholder management.
+
+3. Sprint planning meeting:
+
+Determine what needs to be completed in the next sprint
+
+Move stories in sprint scope from backlog
+
+Daily scrum/standup meeting:
+
+Team members discuss work completed
+
+This meeting happens every day of the sprint and any blocks on tasks are discussed
+
+Sprint retrospective meeting:
+
+Discuss completed work and move incomplete work to backlog
+
+This meeting occurs at the end of the sprint, which may be closed
+
+
